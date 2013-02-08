@@ -1,0 +1,1 @@
+All code in this project is under given LICENSE.txt except for the icon-set which has an additional license included.

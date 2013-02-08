@@ -1,0 +1,49 @@
+body{
+	/* background-color: #B9090B;*/
+}
+
+#videoWrapper{
+	display:none;
+}
+
+#welcomeMessage{
+	display: inline-block;
+	margin: 0 auto;
+}
+
+#screen{
+	border: 1px solid;
+	width:600;
+	height:400;
+	margin: 0 auto;
+	background-color: #444;
+	margin-bottom: 5px;
+}
+
+#noVideoScreen{
+	border-bottom: 1px solid;
+	width:600;
+	height:300;
+	margin: 0 auto;
+	padding-top: 100px;
+	background-color: #DDD;
+}
+
+#fileBrowser{
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.button{
+	text-decoration: none;
+	margin: 2px;
+	display: inline-block;
+}
+
+.button img{
+	display: inline;
+}
+
+.demo{
+	opacity: .7;	
+}
